@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been learning to code for four years, after encountering.
 
 * 🌍  I'm based in Columbus
-* ✉️  You can contact me at [jimmyzeng2002@gmail.com](mailto:jimmyzeng2002@gmail.com)
+* ✉️  You can contact me at [guoqianzeng323@gmail.com](mailto:jimmyzeng2002@gmail.com)
 * 🧠  I'm learning Computer Network, Theories behind R language
 
 ### Skills
