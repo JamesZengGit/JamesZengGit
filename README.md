@@ -6,7 +6,7 @@ I've been learning to code for four years, after encountering.
 * 🌍  I'm based in Columbus
 * ✉️  You can contact me at [guoqianzeng3@gmail.com](mailto:guoqianzeng3@gmail.com)
 * 🧠  I'm learning Computer Network, Applied Machine Learning on Operation
-**  One of my proud projects is the machine-to-human software system for everyone to request information from authorized medical machines products easily. It has a low-latency and cross-platform[Windows, IOS, Android, Mac, Linux] desk software interface, making it a human-centric design; as well as a load-balanced and efficient structure, operating its core in organized ways behind. I made a release version to avoid infringement and leakness because the software is deploying to the company's product lines. You can find it here.
+- One of my proud projects is the machine-to-human software system for everyone to request information from authorized medical machines products easily. It has a low-latency and cross-platform[Windows, IOS, Android, Mac, Linux] desk software interface, making it a human-centric design; as well as a load-balanced and efficient structure, operating its core in organized ways behind. I made a release version to avoid infringement and leakness because the software is deploying to the company's product lines. You can find it here.
 
 ### Skills
 
